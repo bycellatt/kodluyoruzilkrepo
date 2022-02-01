@@ -1,0 +1,18 @@
+body{
+    background-color: #eee6ce;
+}
+
+h3{
+    color: #2eb086;
+}
+
+h2{
+    color: #b8405e;
+}
+
+h1{
+    color: #313552;
+}
+ul,ol {
+    list-style-position: inside
+}
